@@ -21,15 +21,14 @@
 
 ## ལས་འཆར་གྱི་འགྲེལ་བཤད་ཁག Description
 
-- [ ]  [RFJ0007](https://github.com/pecha-jobs/00007-Test/issues/2)
+- [ ]  [RFJTS0001-Test](https://github.com/pecha-jobs/TS-0001-Test/issues/1)
 - [ ]  [RFCTS-0001-Test](https://github.com/pecha-jobs/TS-0001-Test/issues/2)
-- [ ]  [Project](https://github.com/orgs/pecha-jobs/projects/7)
+- [ ]  [Project]()
 
 
 
 ## ལས་འཆར་གྱི་བདག་པོ། Owner
-- [@ngawangtrinley](https://github.com/ngawangtrinley)
-- [@SamaraEscudero](https://github.com/SamaraEscudero)
+- [BDRC](https://github.com/bdrc)
 <!-- This section lists the owners of the repo -->
 
 ## ཡིག་མཛོད་གཞན་དང་སྦྲེལ་ཡོད་མེད། Integrations
